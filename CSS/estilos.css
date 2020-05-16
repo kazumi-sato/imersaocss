@@ -1,0 +1,45 @@
+body{
+    background-image:
+      url('https://images.squarespace-cdn.com/content/58c0d0c7e58c62c4d3ab3755/1528312839718-Q444F6Y91UQOUDT5554B/victoria-secrets-pink-wallpapers-group-62-with-enchanting-home-colors.jpg?content-type=image%2Fjpeg');
+    background-size: auto 100vh;
+    height:100vh;
+    font-family: Arial;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  .menu li {
+    list-style: none; 
+  }
+  
+  
+  
+  
+  
+  
